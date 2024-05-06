@@ -1660,3 +1660,12 @@ section {
 #footer .credits a {
   transition: 0.3s;
 }
+
+.no-style-li {
+  list-style-type: none;
+}
+
+.jutify {
+  text-align: justify;
+  padding: 0 5rem;
+}
