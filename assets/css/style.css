@@ -1669,3 +1669,9 @@ section {
   text-align: justify;
   padding: 0 5rem;
 }
+
+@media (max-width: 768px) {
+  .jutify {
+    padding: 0 1rem;
+  }
+}
