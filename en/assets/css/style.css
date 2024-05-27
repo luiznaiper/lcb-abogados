@@ -1722,3 +1722,14 @@ section {
 .whatsapp-icon {
   margin-top: 13px;
 }
+
+.flag {
+  position: fixed;
+  bottom: 120px;
+  left: 40px;
+  z-index: 100;
+}
+
+.flag img {
+  width: 60px;
+}
